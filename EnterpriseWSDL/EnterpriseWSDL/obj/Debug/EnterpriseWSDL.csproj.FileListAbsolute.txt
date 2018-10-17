@@ -1,0 +1,7 @@
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\bin\Debug\EnterpriseWSDL.exe.config
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\bin\Debug\EnterpriseWSDL.exe
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\bin\Debug\EnterpriseWSDL.pdb
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\obj\Debug\EnterpriseWSDL.csproj.CoreCompileInputs.cache
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\obj\Debug\EnterpriseWSDL.exe
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\obj\Debug\EnterpriseWSDL.pdb
+C:\Users\pruwanpa\source\repos\EnterpriseWSDL\EnterpriseWSDL\obj\Debug\EnterpriseWSDL.csprojAssemblyReference.cache
